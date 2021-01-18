@@ -1,7 +1,7 @@
 /*
  Navicat MySQL Data Transfer
 
- Source Server         : J1ong
+
  Source Server Type    : MySQL
  Source Server Version : 80013
  Source Host           : localhost:3306
@@ -301,7 +301,7 @@ CREATE TABLE `t_user`  (
 -- ----------------------------
 -- Records of t_user
 -- ----------------------------
-INSERT INTO `t_user` VALUES (1, 'LyuJ1ong', '/images/avatar/man.jpg', '123456', '13414850282', '男', '2021-8-12', '我命由我不由天');
+INSERT INTO `t_user` VALUES (1, 'geustljz', '/images/avatar/man.jpg', '123456', '13414850282', '男', '2021-8-12', '干饭');
 INSERT INTO `t_user` VALUES (19, '张三', '/images/avatar/1557241550286.jpg', '123', '13423232323', '男', '2021-4-8', '66666');
 INSERT INTO `t_user` VALUES (23, '13478565555', '/images/avatar/monkey.png', '123456', '13478565555', '男', NULL, '加油');
 INSERT INTO `t_user` VALUES (25, '13877777766', '/images/avatar/monkey.png', '123456', '13877777766', '男', NULL, '生而无畏');

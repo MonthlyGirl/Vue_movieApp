@@ -2,9 +2,9 @@
 
 > ### 淘气电影后台管理项目
 
-## 预览
 
-<img src="https://img-blog.csdnimg.cn/2019092514452441.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTM4MjE4Nw==,size_16,color_FFFFFF,t_70" width="600px">
+
+
 
 ## 目录
 
@@ -46,7 +46,7 @@
 
 ## 启动项目
 
-**注意！注意！注意！启动后台管理项目前需部署并启动好接口项目 [film_api](https://github.com/J1ong/FilmSys/tree/master/film_api)**  
+**注意！注意！注意！启动后台管理项目前需部署并启动好接口项目**
 
 ```bash
 #输入命令前需要进入到film_admin中,即在film_admin目录下输入以下命令

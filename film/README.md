@@ -63,13 +63,13 @@
 
 ## 启动项目
 
-**注意！注意！注意！启动前端页面项目前需部署并启动好接口项目 [film_api](https://github.com/J1ong/FilmSys/tree/master/film_api)**
+**注意！注意！注意！启动前端页面项目前需部署并启动好接口项目**
 
 
 ```bash
 #输入命令前需要进入到film中,即在film目录下输入以下命令
-npm install  #安装依赖包    
-npm run dev  #启动   
+npm install  #安装依赖包
+npm run dev  #启动
 
 ```
 

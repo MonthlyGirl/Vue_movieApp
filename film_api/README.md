@@ -28,8 +28,8 @@
 ## 启动前
 
 1. 安装好mysql文件
-2. 导入数据文件[db_film.sql](https://github.com/J1ong/FilmSys/blob/master/db_film.sql)或者自己新建名为db_film数据库，然后复制数据文件[db_film.sql](https://github.com/J1ong/FilmSys/blob/master/db_film.sql)的内容，执行sql语句。
-3. 根据自己数据库的信息修改数据库配置信息[db.js](https://github.com/J1ong/FilmSys/blob/master/film_api/db/db.js)的内容
+2. 导入数据文件 db_film.sql 或者自己新建名为db_film数据库，然后复制数据文件 db_film.sql的内容，执行sql语句。
+3. 根据自己数据库的信息修改数据库配置信息 db.js的内容
 
 ## 启动项目
 
